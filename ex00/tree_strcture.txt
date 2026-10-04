@@ -1,0 +1,5 @@
+.:
+total 8
+drwxrwxr-x 2 kali kali 4096 Oct  4 13:55 .
+drwxrwxr-x 7 kali kali 4096 Oct  4 13:54 ..
+-rw-rw-r-- 1 kali kali    0 Oct  4 13:55 tree_strcture.txt
