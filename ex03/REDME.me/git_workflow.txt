@@ -1,0 +1,6 @@
+1. Created the ex03 directory.
+2. Created and structured the README.md file explaining why Git makes development easier.
+3. Staged the changes using git add.
+4. Committed the changes with a clear message using git commit.
+5. Pushed the work to the remote repository.
+
