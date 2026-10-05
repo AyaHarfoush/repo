@@ -1,1 +1,1 @@
-https://github.com/AyaHarfoush/discovery-web-piscine
+git@github.com:AyaHarfoush/discovery-web-piscine.git
