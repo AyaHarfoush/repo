@@ -1,283 +1,40 @@
-/home/kali/repo:
-total 40
-drwxrwxr-x  7 kali kali 4096 Oct  4 13:54 .
-drwx------ 26 kali kali 4096 Oct  4 13:30 ..
-drwxrwxr-x  2 kali kali 4096 Oct  4 14:00 ex00
-drwxrwxr-x  2 kali kali 4096 Oct  4 13:27 ex01
-drwxrwxr-x  2 kali kali 4096 Oct  4 13:48 ex02
-drwxrwxr-x  3 kali kali 4096 Oct  4 13:31 ex03
-drwxrwxr-x  7 kali kali 4096 Oct  4 13:56 .git
--rw-rw-r--  1 kali kali 8514 Oct  4 13:54 tree_structure.txt
-
-/home/kali/repo/ex00:
-total 8
-drwxrwxr-x 2 kali kali 4096 Oct  4 14:00 .
-drwxrwxr-x 7 kali kali 4096 Oct  4 13:54 ..
--rw-rw-r-- 1 kali kali    0 Oct  4 14:00 tree_strcture.txt
-
-/home/kali/repo/ex01:
-total 16
-drwxrwxr-x 2 kali kali 4096 Oct  4 13:27 .
-drwxrwxr-x 7 kali kali 4096 Oct  4 13:54 ..
--rwxrwxr-x 1 kali kali  227 Oct  4 13:24 manages_files.sh
--rw-rw-r-- 1 kali kali   41 Oct  4 13:24 run_log.txt
-
-/home/kali/repo/ex02:
-total 16
-drwxrwxr-x 2 kali kali 4096 Oct  4 13:48 .
-drwxrwxr-x 7 kali kali 4096 Oct  4 13:54 ..
--rw-rw-r-- 1 kali kali  162 Oct  4 12:59 git_log.txt
--rw-rw-r-- 1 kali kali   53 Oct  4 12:59 repo_url.txt
-
-/home/kali/repo/ex03:
-total 12
-drwxrwxr-x 3 kali kali 4096 Oct  4 13:31 .
-drwxrwxr-x 7 kali kali 4096 Oct  4 13:54 ..
-drwxrwxr-x 2 kali kali 4096 Oct  4 13:39 REDME.me
-
-/home/kali/repo/ex03/REDME.me:
+dev_workspace:
 total 20
-drwxrwxr-x 2 kali kali 4096 Oct  4 13:39 .
-drwxrwxr-x 3 kali kali 4096 Oct  4 13:31 ..
--rw-rw-r-- 1 kali kali  268 Oct  4 13:35 git_workflow.txt
--rw-rw-r-- 1 kali kali  105 Oct  4 13:36 id_ed25519_pub.txt
--rw-rw-r-- 1 kali kali  315 Oct  4 13:38 REDME.me
+drwxrwxr-x 5 kali kali 4096 Oct  5 15:49 .
+drwxrwxr-x 3 kali kali 4096 Oct  6 03:06 ..
+drwxrwxr-x 2 kali kali 4096 Oct  5 15:49 archives
+drwxrwxr-x 3 kali kali 4096 Oct  5 15:49 projects
+drwxrwxr-x 2 kali kali 4096 Oct  5 15:49 tools
 
-/home/kali/repo/.git:
-total 48
-drwxrwxr-x  7 kali kali 4096 Oct  4 13:56 .
-drwxrwxr-x  7 kali kali 4096 Oct  4 13:54 ..
--rw-rw-r--  1 kali kali   24 Oct  4 13:56 COMMIT_EDITMSG
--rw-rw-r--  1 kali kali  256 Oct  4 13:56 config
--rw-rw-r--  1 kali kali   73 Oct  4 13:48 description
--rw-rw-r--  1 kali kali   21 Oct  4 13:49 HEAD
-drwxrwxr-x  2 kali kali 4096 Oct  4 13:48 hooks
--rw-rw-r--  1 kali kali  910 Oct  4 13:56 index
-drwxrwxr-x  2 kali kali 4096 Oct  4 13:48 info
-drwxrwxr-x  3 kali kali 4096 Oct  4 13:51 logs
-drwxrwxr-x 21 kali kali 4096 Oct  4 13:56 objects
-drwxrwxr-x  5 kali kali 4096 Oct  4 13:51 refs
+dev_workspace/archives:
+total 8
+drwxrwxr-x 2 kali kali 4096 Oct  5 15:49 .
+drwxrwxr-x 5 kali kali 4096 Oct  5 15:49 ..
 
-/home/kali/repo/.git/hooks:
-total 72
-drwxrwxr-x 2 kali kali 4096 Oct  4 13:48 .
-drwxrwxr-x 7 kali kali 4096 Oct  4 13:56 ..
--rwxrwxr-x 1 kali kali  478 Oct  4 13:48 applypatch-msg.sample
--rwxrwxr-x 1 kali kali  896 Oct  4 13:48 commit-msg.sample
--rwxrwxr-x 1 kali kali 4726 Oct  4 13:48 fsmonitor-watchman.sample
--rwxrwxr-x 1 kali kali  189 Oct  4 13:48 post-update.sample
--rwxrwxr-x 1 kali kali  424 Oct  4 13:48 pre-applypatch.sample
--rwxrwxr-x 1 kali kali 1649 Oct  4 13:48 pre-commit.sample
--rwxrwxr-x 1 kali kali  416 Oct  4 13:48 pre-merge-commit.sample
--rwxrwxr-x 1 kali kali 1492 Oct  4 13:48 prepare-commit-msg.sample
--rwxrwxr-x 1 kali kali 1374 Oct  4 13:48 pre-push.sample
--rwxrwxr-x 1 kali kali 4898 Oct  4 13:48 pre-rebase.sample
--rwxrwxr-x 1 kali kali  544 Oct  4 13:48 pre-receive.sample
--rwxrwxr-x 1 kali kali 2783 Oct  4 13:48 push-to-checkout.sample
--rwxrwxr-x 1 kali kali 2308 Oct  4 13:48 sendemail-validate.sample
--rwxrwxr-x 1 kali kali 3650 Oct  4 13:48 update.sample
-
-/home/kali/repo/.git/info:
+dev_workspace/projects:
 total 12
-drwxrwxr-x 2 kali kali 4096 Oct  4 13:48 .
-drwxrwxr-x 7 kali kali 4096 Oct  4 13:56 ..
--rw-rw-r-- 1 kali kali  240 Oct  4 13:48 exclude
+drwxrwxr-x 3 kali kali 4096 Oct  5 15:49 .
+drwxrwxr-x 5 kali kali 4096 Oct  5 15:49 ..
+drwxrwxr-x 4 kali kali 4096 Oct  5 15:49 web
 
-/home/kali/repo/.git/logs:
+dev_workspace/projects/web:
 total 16
-drwxrwxr-x 3 kali kali 4096 Oct  4 13:51 .
-drwxrwxr-x 7 kali kali 4096 Oct  4 13:56 ..
--rw-rw-r-- 1 kali kali  377 Oct  4 13:56 HEAD
-drwxrwxr-x 4 kali kali 4096 Oct  4 13:51 refs
+drwxrwxr-x 4 kali kali 4096 Oct  5 15:49 .
+drwxrwxr-x 3 kali kali 4096 Oct  5 15:49 ..
+drwxrwxr-x 2 kali kali 4096 Oct  5 15:49 backend
+drwxrwxr-x 2 kali kali 4096 Oct  5 15:49 frontend
 
-/home/kali/repo/.git/logs/refs:
-total 16
-drwxrwxr-x 4 kali kali 4096 Oct  4 13:51 .
-drwxrwxr-x 3 kali kali 4096 Oct  4 13:51 ..
-drwxrwxr-x 2 kali kali 4096 Oct  4 13:51 heads
-drwxrwxr-x 3 kali kali 4096 Oct  4 13:51 remotes
-
-/home/kali/repo/.git/logs/refs/heads:
-total 12
-drwxrwxr-x 2 kali kali 4096 Oct  4 13:51 .
-drwxrwxr-x 4 kali kali 4096 Oct  4 13:51 ..
--rw-rw-r-- 1 kali kali  377 Oct  4 13:56 main
-
-/home/kali/repo/.git/logs/refs/remotes:
-total 12
-drwxrwxr-x 3 kali kali 4096 Oct  4 13:51 .
-drwxrwxr-x 4 kali kali 4096 Oct  4 13:51 ..
-drwxrwxr-x 2 kali kali 4096 Oct  4 13:51 origin
-
-/home/kali/repo/.git/logs/refs/remotes/origin:
-total 12
-drwxrwxr-x 2 kali kali 4096 Oct  4 13:51 .
-drwxrwxr-x 3 kali kali 4096 Oct  4 13:51 ..
--rw-rw-r-- 1 kali kali  306 Oct  4 13:56 main
-
-/home/kali/repo/.git/objects:
-total 84
-drwxrwxr-x 21 kali kali 4096 Oct  4 13:56 .
-drwxrwxr-x  7 kali kali 4096 Oct  4 13:56 ..
-drwxrwxr-x  2 kali kali 4096 Oct  4 13:51 04
-drwxrwxr-x  2 kali kali 4096 Oct  4 13:50 0d
-drwxrwxr-x  2 kali kali 4096 Oct  4 13:51 13
-drwxrwxr-x  2 kali kali 4096 Oct  4 13:51 16
-drwxrwxr-x  2 kali kali 4096 Oct  4 13:50 20
-drwxrwxr-x  2 kali kali 4096 Oct  4 13:56 3b
-drwxrwxr-x  2 kali kali 4096 Oct  4 13:50 42
-drwxrwxr-x  2 kali kali 4096 Oct  4 13:50 47
-drwxrwxr-x  2 kali kali 4096 Oct  4 13:51 4b
-drwxrwxr-x  2 kali kali 4096 Oct  4 13:56 5c
-drwxrwxr-x  2 kali kali 4096 Oct  4 13:55 6b
-drwxrwxr-x  2 kali kali 4096 Oct  4 13:50 6d
-drwxrwxr-x  2 kali kali 4096 Oct  4 13:50 75
-drwxrwxr-x  2 kali kali 4096 Oct  4 13:50 83
-drwxrwxr-x  2 kali kali 4096 Oct  4 13:51 90
-drwxrwxr-x  2 kali kali 4096 Oct  4 13:56 b8
-drwxrwxr-x  2 kali kali 4096 Oct  4 13:51 c2
-drwxrwxr-x  2 kali kali 4096 Oct  4 13:48 info
-drwxrwxr-x  2 kali kali 4096 Oct  4 13:48 pack
-
-/home/kali/repo/.git/objects/04:
-total 12
-drwxrwxr-x  2 kali kali 4096 Oct  4 13:51 .
-drwxrwxr-x 21 kali kali 4096 Oct  4 13:56 ..
--r--r--r--  1 kali kali   96 Oct  4 13:51 9ef7a93f057423abd7b59635798a72a2219bba
-
-/home/kali/repo/.git/objects/0d:
-total 12
-drwxrwxr-x  2 kali kali 4096 Oct  4 13:50 .
-drwxrwxr-x 21 kali kali 4096 Oct  4 13:56 ..
--r--r--r--  1 kali kali  118 Oct  4 13:50 1743507ccda8bbe54be3c85d1f964c94cb49d6
-
-/home/kali/repo/.git/objects/13:
-total 12
-drwxrwxr-x  2 kali kali 4096 Oct  4 13:51 .
-drwxrwxr-x 21 kali kali 4096 Oct  4 13:56 ..
--r--r--r--  1 kali kali  133 Oct  4 13:51 3d9fbed6d418871e2a3b515db72d43767d408c
-
-/home/kali/repo/.git/objects/16:
-total 12
-drwxrwxr-x  2 kali kali 4096 Oct  4 13:51 .
-drwxrwxr-x 21 kali kali 4096 Oct  4 13:56 ..
--r--r--r--  1 kali kali   89 Oct  4 13:51 2aa827873c7127a0fb5865096d6b2bae1de0f9
-
-/home/kali/repo/.git/objects/20:
-total 12
-drwxrwxr-x  2 kali kali 4096 Oct  4 13:50 .
-drwxrwxr-x 21 kali kali 4096 Oct  4 13:56 ..
--r--r--r--  1 kali kali   67 Oct  4 13:50 e4cfccb35cbac2ddfb8a408995ea902f33d74d
-
-/home/kali/repo/.git/objects/3b:
-total 12
-drwxrwxr-x  2 kali kali 4096 Oct  4 13:56 .
-drwxrwxr-x 21 kali kali 4096 Oct  4 13:56 ..
--r--r--r--  1 kali kali   61 Oct  4 13:56 28fae751ea381e6a507dca5c38fb9450d920b2
-
-/home/kali/repo/.git/objects/42:
-total 12
-drwxrwxr-x  2 kali kali 4096 Oct  4 13:50 .
-drwxrwxr-x 21 kali kali 4096 Oct  4 13:56 ..
--r--r--r--  1 kali kali  150 Oct  4 13:50 b809c9e42aa82f0c604f901a25ace9a5ae6df5
-
-/home/kali/repo/.git/objects/47:
-total 12
-drwxrwxr-x  2 kali kali 4096 Oct  4 13:50 .
-drwxrwxr-x 21 kali kali 4096 Oct  4 13:56 ..
--r--r--r--  1 kali kali  141 Oct  4 13:50 91f648ebdf50929b9154cc4ad5d6086d9873d1
-
-/home/kali/repo/.git/objects/4b:
-total 12
-drwxrwxr-x  2 kali kali 4096 Oct  4 13:51 .
-drwxrwxr-x 21 kali kali 4096 Oct  4 13:56 ..
--r--r--r--  1 kali kali  159 Oct  4 13:51 61dc3dfa759f508e1490bd5abca78aba80d82d
-
-/home/kali/repo/.git/objects/5c:
-total 12
-drwxrwxr-x  2 kali kali 4096 Oct  4 13:56 .
-drwxrwxr-x 21 kali kali 4096 Oct  4 13:56 ..
--r--r--r--  1 kali kali  122 Oct  4 13:56 8030ee0e507a07ea3bb3d3d8152e5f5aa78f59
-
-/home/kali/repo/.git/objects/6b:
-total 12
-drwxrwxr-x  2 kali kali 4096 Oct  4 13:55 .
-drwxrwxr-x 21 kali kali 4096 Oct  4 13:56 ..
--r--r--r--  1 kali kali  106 Oct  4 13:55 41cfa0000ca461fee7328f5695e4dd3ebade79
-
-/home/kali/repo/.git/objects/6d:
-total 12
-drwxrwxr-x  2 kali kali 4096 Oct  4 13:50 .
-drwxrwxr-x 21 kali kali 4096 Oct  4 13:56 ..
--r--r--r--  1 kali kali  192 Oct  4 13:50 09c4df29385997c4da88519beae619f183d43a
-
-/home/kali/repo/.git/objects/75:
-total 12
-drwxrwxr-x  2 kali kali 4096 Oct  4 13:50 .
-drwxrwxr-x 21 kali kali 4096 Oct  4 13:56 ..
--r--r--r--  1 kali kali  225 Oct  4 13:50 b1588a1a8bb96c0052d0a534464be8a52944e3
-
-/home/kali/repo/.git/objects/83:
-total 12
-drwxrwxr-x  2 kali kali 4096 Oct  4 13:50 .
-drwxrwxr-x 21 kali kali 4096 Oct  4 13:56 ..
--r--r--r--  1 kali kali   54 Oct  4 13:50 5e85b1f5d0dbb89869feff1c2e8c4b73cf8661
-
-/home/kali/repo/.git/objects/90:
-total 12
-drwxrwxr-x  2 kali kali 4096 Oct  4 13:51 .
-drwxrwxr-x 21 kali kali 4096 Oct  4 13:56 ..
--r--r--r--  1 kali kali   50 Oct  4 13:51 d8d6e978e52c4472a9d49f95b740e5ba6226cd
-
-/home/kali/repo/.git/objects/b8:
-total 12
-drwxrwxr-x  2 kali kali 4096 Oct  4 13:56 .
-drwxrwxr-x 21 kali kali 4096 Oct  4 13:56 ..
--r--r--r--  1 kali kali  173 Oct  4 13:56 54ab2ad3ccc444bb9baf9848cc3f397775aef2
-
-/home/kali/repo/.git/objects/c2:
-total 12
-drwxrwxr-x  2 kali kali 4096 Oct  4 13:51 .
-drwxrwxr-x 21 kali kali 4096 Oct  4 13:56 ..
--r--r--r--  1 kali kali  100 Oct  4 13:51 dc47f08df8ef32bd2d087a7dac6658340808a4
-
-/home/kali/repo/.git/objects/info:
+dev_workspace/projects/web/backend:
 total 8
-drwxrwxr-x  2 kali kali 4096 Oct  4 13:48 .
-drwxrwxr-x 21 kali kali 4096 Oct  4 13:56 ..
+drwxrwxr-x 2 kali kali 4096 Oct  5 15:49 .
+drwxrwxr-x 4 kali kali 4096 Oct  5 15:49 ..
 
-/home/kali/repo/.git/objects/pack:
+dev_workspace/projects/web/frontend:
 total 8
-drwxrwxr-x  2 kali kali 4096 Oct  4 13:48 .
-drwxrwxr-x 21 kali kali 4096 Oct  4 13:56 ..
+drwxrwxr-x 2 kali kali 4096 Oct  5 15:49 .
+drwxrwxr-x 4 kali kali 4096 Oct  5 15:49 ..
 
-/home/kali/repo/.git/refs:
-total 20
-drwxrwxr-x 5 kali kali 4096 Oct  4 13:51 .
-drwxrwxr-x 7 kali kali 4096 Oct  4 13:56 ..
-drwxrwxr-x 2 kali kali 4096 Oct  4 13:56 heads
-drwxrwxr-x 3 kali kali 4096 Oct  4 13:51 remotes
-drwxrwxr-x 2 kali kali 4096 Oct  4 13:48 tags
-
-/home/kali/repo/.git/refs/heads:
-total 12
-drwxrwxr-x 2 kali kali 4096 Oct  4 13:56 .
-drwxrwxr-x 5 kali kali 4096 Oct  4 13:51 ..
--rw-rw-r-- 1 kali kali   41 Oct  4 13:56 main
-
-/home/kali/repo/.git/refs/remotes:
-total 12
-drwxrwxr-x 3 kali kali 4096 Oct  4 13:51 .
-drwxrwxr-x 5 kali kali 4096 Oct  4 13:51 ..
-drwxrwxr-x 2 kali kali 4096 Oct  4 13:56 origin
-
-/home/kali/repo/.git/refs/remotes/origin:
-total 12
-drwxrwxr-x 2 kali kali 4096 Oct  4 13:56 .
-drwxrwxr-x 3 kali kali 4096 Oct  4 13:51 ..
--rw-rw-r-- 1 kali kali   41 Oct  4 13:56 main
-
-/home/kali/repo/.git/refs/tags:
+dev_workspace/tools:
 total 8
-drwxrwxr-x 2 kali kali 4096 Oct  4 13:48 .
-drwxrwxr-x 5 kali kali 4096 Oct  4 13:51 ..
+drwxrwxr-x 2 kali kali 4096 Oct  5 15:49 .
+drwxrwxr-x 5 kali kali 4096 Oct  5 15:49 ..
